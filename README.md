@@ -54,6 +54,10 @@ month, 2=payment delay for two months, … 8=payment delay for eight months,9=pa
 * PAY_AMT1: Amount of previous payment in September 2005 (NT dollar) 
 * PAY_AMT2: Amount of previous payment in August 2005 (NT dollar) 
 * PAY_AMT3: Amount of previous payment in July 2005 (NT dollar)
+* PAY_AMT4: Amount of previous payment in June 2005 (NT dollar) 
+* PAY_AMT5: Amount of previous payment in May 2005 (NT dollar) 
+* PAY_AMT6: Amount of previous payment in April 2005 (NT dollar)
+
 
 [Click here for DataSet](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)
 
