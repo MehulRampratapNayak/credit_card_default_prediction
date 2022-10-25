@@ -23,3 +23,5 @@ https://github.com/MehulRampratapNayak/credit_card_default_prediction
 Deployed Link
 https://pred-credit-card-defaulter.herokuapp.com/
 
+Linkedin Post Link
+https://www.linkedin.com/posts/activity-6990522359677923328-KzOo?utm_source=share&utm_medium=member_desktop
