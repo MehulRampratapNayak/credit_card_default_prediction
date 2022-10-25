@@ -1,0 +1,25 @@
+Architecture
+https://drive.google.com/file/d/1rEjwcv-QEWuij7YkY6tWiSoi7af-vN9j/view?usp=sharing
+
+Project Demo Video
+https://drive.google.com/file/d/15UgmGyKLOfYMfiMOnZ-P_zgp-mwZSiXg/view?usp=sharing
+
+DPR
+https://drive.google.com/file/d/1suOIy74M93d0H3Hp5ECaNocniSkQMYn0/view?usp=sharing
+
+HLD
+https://drive.google.com/file/d/1GE2jkYdfRNdZAiTsp96V8axU4qGp3aSP/view?usp=sharing
+
+
+LLD
+https://drive.google.com/file/d/1Iv6AL38bNbK1yV9GDN-448vobttFhEwk/view?usp=sharing
+
+WIREFRAME
+https://drive.google.com/file/d/1gRmuNLwt3LqAaWP2ID6MFkS3NFChUHwr/view?usp=sharing
+
+Github Link
+https://github.com/MehulRampratapNayak/credit_card_default_prediction
+
+Deployed Link
+https://pred-credit-card-defaulter.herokuapp.com/
+
